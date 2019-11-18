@@ -1,4 +1,4 @@
-package com.ederlonbarbosa.studiesandtests;
+package com.ederlonbarbosa.studiesAndTests;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
